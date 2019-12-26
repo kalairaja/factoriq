@@ -1,0 +1,12 @@
+/Users/kalai/git/gitrepo/factoriq/src/main/java/com/incubate/IncubateApplication.java
+/Users/kalai/git/gitrepo/factoriq/src/main/java/com/incubate/model/dto/UserRegistrationResponse.java
+/Users/kalai/git/gitrepo/factoriq/src/main/java/com/incubate/model/dto/User.java
+/Users/kalai/git/gitrepo/factoriq/src/main/java/com/incubate/config/SpringConfiguration.java
+/Users/kalai/git/gitrepo/factoriq/src/main/java/com/incubate/circuit/UserRegistrationCommand.java
+/Users/kalai/git/gitrepo/factoriq/src/main/java/com/incubate/controller/UserController.java
+/Users/kalai/git/gitrepo/factoriq/src/main/java/com/incubate/service/UserService.java
+/Users/kalai/git/gitrepo/factoriq/src/main/java/com/incubate/repositary/entity/AddressEntity.java
+/Users/kalai/git/gitrepo/factoriq/src/main/java/com/incubate/repositary/entity/UserEntity.java
+/Users/kalai/git/gitrepo/factoriq/src/main/java/com/incubate/repositary/UserRepository.java
+/Users/kalai/git/gitrepo/factoriq/src/main/java/com/incubate/dao/UserRegistrationDAO.java
+/Users/kalai/git/gitrepo/factoriq/src/main/java/com/incubate/model/dto/Address.java
